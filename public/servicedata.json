@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Outdore",
+        "img" : "https://img.freepik.com/free-photo/back-view-hiker-watching-sunset-from-mountain_181624-52983.jpg?t=st=1650142369~exp=1650142969~hmac=9fc3a88cdb80f9e0252ece037b131726b4aac6fd89ca4ab33d07eba2106b1ef9&w=740",
+        "describe": " we are offering Outdoor Photography Service. We keep expertise in providing this service with high ...",
+        "id": "1",
+        "price": "200"
+    },
+
+    {
+        "name": "Wedding",
+        "img" : "https://img.freepik.com/free-photo/beautiful-bride-groom-having-beach-wedding_23-2149043969.jpg?t=st=1650140120~exp=1650140720~hmac=fb71c890117894096932585b7d6fa59b5728208803f15aadee9a4512c2c3c9c7&w=740",
+        "describe": "we planned wedding in a new way modern and tradition way we make ur weddings a sweet moment. See all. Related Pages. RIAZ Photo House.....",
+        "id": "2",
+        "price": "250"
+    },
+
+    {
+        "name": "Modelling",
+        "img" : "https://img.freepik.com/free-photo/portrait-pretty-lady-red-warm-jacket-stylish-eyeglasses_197531-15046.jpg?size=626&ext=jpg&ga=GA1.2.552546961.1649698932",
+        "describe": "We offer model photography services including, studio facilities, equipment & lighting, color correction, product preparation, resizing of images, ...",
+        "id": "3",
+        "price": "400"
+    }
+]
