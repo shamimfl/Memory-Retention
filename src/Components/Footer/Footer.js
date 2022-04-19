@@ -31,7 +31,7 @@ const Footer = () => {
                     <li>  360 Photography</li>
                     <div>
                         <li> Privacy Policy</li>
-                        <li> Terms & Conditions</li>
+                        <li> Terms and Conditions</li>
                     </div>
                 </div>
             </div>
