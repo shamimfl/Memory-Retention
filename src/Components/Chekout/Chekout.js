@@ -18,7 +18,7 @@ const Chekout = () => {
                     <input type="text" className='block  mb-3 p-2  shadow-inner shadow-current' placeholder='Enter Your Ariea' required />
                     <span className='flex items-center justify-around'>
                         <input className='block  mb-3 p-2 mt-3 shadow-inner shadow-current' type="checkbox" name="" id="" required/>
-                        <p className='font-mono '>Agree Our Trems..</p>
+                        <p className='font-mono '>Agree Our Trems...</p>
                     </span>
 
                     <div className='border-1 border-pink-500 mt-2 mb-2'></div>
